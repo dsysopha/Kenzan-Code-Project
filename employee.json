@@ -17,9 +17,17 @@
 }, {
   "id" : "10dee2ef-d05a-4df7-8a20-eed38017f78a",
   "firstName" : "Ryan",
-  "middleInitial" : "M",
-  "lastName" : "Wickett",
+  "middleInitial" : "H",
+  "lastName" : "Wick",
   "dateOfBirth" : "05/09/1999",
-  "dateOfEmployment" : "08/21/2021",
+  "dateOfEmployment" : "06/25/2021",
+  "active" : true
+}, {
+  "id" : "0877a101-2e96-488e-a4cd-88c0eecc4ce1",
+  "firstName" : "Jane",
+  "middleInitial" : "H",
+  "lastName" : "Doe",
+  "dateOfBirth" : "02/04/1991",
+  "dateOfEmployment" : "06/30/2017",
   "active" : true
 } ]
